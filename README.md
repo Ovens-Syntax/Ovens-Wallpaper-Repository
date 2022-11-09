@@ -5,11 +5,11 @@ get the wallpapers by doing
 git clone https://github.com/Ovens-Syntax/Ovens-Wallpaper-Repository 
 
 ## Previews
-Walls
-https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/coffee1.jpg
-https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/coffee2.png
-https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/coffee3.png
-https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/coffee4.jpg
+
+![coffee1](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/coffee1.jpg)
+![coffee2](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/coffee2.png)
+![coffee3](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/coffee3.png)
+![coffee4](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/coffee4.jpg)
 https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/cyberpunk1.png
 https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/cyberpunk2.png
 https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/keeb2.png
