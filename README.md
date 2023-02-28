@@ -7,7 +7,6 @@ git clone https://github.com/Ovens-Syntax/Ovens-Wallpaper-Repository
 ## Previews
 ![cat1](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/cat1.jpg)
 ![cat2](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/cat2.jpg)
-![cat3](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/cat3.jpg)
 ![coffee1](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/coffee1.jpg)
 ![coffee2](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/coffee2.png)
 ![coffee3](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/coffee3.png)
