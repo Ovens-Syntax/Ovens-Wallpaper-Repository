@@ -1,6 +1,14 @@
 # Ovens Wallpaper Repository
 Welcome to Ovens-Wallpaper-Repository
 
+## Sources
+https://www.waneella.com/
+https://www.famsf.org/artworks/chapel-of-convent-of-saint-catharine-mount-sinai-the-holy-land
+https://www.thegreatcat.org/the-cat-in-art-and-photos-2/cats-in-19th-century-art/henriette-ronner-knip-1821-1909-dutch/
+https://medium.com/@poppel/interview-of-pixel-artist-waneella-2019-d9343376b13a
+
+## Install
+
 get the wallpapers by doing 
 git clone https://github.com/Ovens-Syntax/Ovens-Wallpaper-Repository 
 
