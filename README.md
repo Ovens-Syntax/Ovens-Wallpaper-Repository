@@ -13,76 +13,51 @@ get the wallpapers by doing
 git clone https://github.com/Ovens-Syntax/Ovens-Wallpaper-Repository 
 
 ## Previews
-![cat1](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/cat1.jpg)
-![cat2](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/cat2.jpg)
-![coffee1](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/coffee1.jpg)
-![coffee2](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/coffee2.png)
-![coffee3](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/coffee3.png)
-![coffee4](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/coffee4.jpg)
-![cyberpunk1](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/cyberpunk1.png)
-![cyberpunk2](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/cyberpunk2.png)
-![game1](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/game1.jpg)
-![game2](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/game2.jpg)
-![game3](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/game3.png)
-![keeb1](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/keeb1.png)
-![keeb2](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/keeb2.png)
-![keeb3](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/keeb3.png)
-![keeb4](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/keeb4.png)
-![keeb5](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/keeb5.png)
-![keeb6](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/keeb6.jpg)
-![keeb7](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/keeb7.png)
-![light1](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/light1.png)
-![lotr1](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/lotr1.png)
-![lotr2](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/lotr2.jpg)
-![lotr3](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/lotr3.jpg)
-![misc1](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/misc1.jpg)
-![misc2](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/misc2.png)
-![misc3](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/misc3.jpg)
-![misc4](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/misc4.png)
-![misc5](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/misc5.png)
-![misc6](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/misc6.png)
-![misc7](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/misc7.jpg)
-![misc8](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/misc8.jpg)
-![misc9](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/misc9.png)
-![misc10](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/misc10.jpg)
-![misc11](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/misc11.png)
-![misc12](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/misc12.jpg)
-![misc13](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/misc13.png)
-![misc14](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/misc14,jpg)
-![misc15](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/misc15.png)
-![misc16](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/misc16,png)
-![misc17](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/misc17.png)
-![noir1](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/noir1.png)
-![noir2](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/noir2.jpg)
-![noir3](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/noir3.png)
-![noir4](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/noir4.jpg)
-![noir5](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/noir5.jpg)
-![noir6](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/noir6.jpg)
-![noir7](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/noir7.png)
-![noir8](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/noir8.png)
-![noir9](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/noir9.jpeg)
-![pirate1](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/pirate1.jpg)
-![pirate2](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/pirate2.jpg)
-![pirate3](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/pirate3.jpg)
-![pirate4](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/pirate4.jpg)
-![pirate5](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/pirate5.jpg)
-![pixel1](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/pixel1.png)
-![pixel2](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/pixel2.png)
-![pixel3](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/pixel3.png)
-![pixel4](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/pixel4.png)
-![pixel5](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/pixel5.png)
-![pixel6](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/pixel6.png)
-![politics1](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/politics1.png)
-![politics2](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/politics2.png)
-![politics3](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/politics3.png)
-![politics4](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/politics4.png)
-![politics5](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/politics5.png)
-![politics6](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/politics6.png)
-![politics7](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/politics7.png)
-![politics8](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/politics8.png)
-![politics9](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/politics9.jpg)
-![politics10](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/politics10.png)
-![skull1](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/skull1.png)
-![space1](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/space1.png)
-![space2](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/space2.png)
-![stelaris1](https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/stelaris1.png)
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Buildings1.png/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Cat1.jpg/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Cat2.jpg/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Cat3.jpg/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Coffee1.jpg/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Coffee2.jpg/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Coffee3.jpg/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Coffee4.jpg/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Coffee5.png/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Coffee6.jpg/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Coffee7.png/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Cyberpunk1.png/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Cyberpunk2.png/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Cyberpunk3.png/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Game1.jpg/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Game2.jpg/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Game3.jpg/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Game4.png/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Game5.jpg/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Game6.png/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Guts1.png/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Guts2.jpg/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Hardware1.png/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Misc1.jpg/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Misc2.png/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Misc3.png/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Misc4.png/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Misc5.png/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Misc6.jpg/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Nature1.png/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Noir10.png/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Noir1.png/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Noir2.jpg/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Noir3.png/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Noir4.jpg/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Noir5.jpg/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Noir7.png/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Noir9.jpg/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Panopticon.png/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Pirate1.jpg/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Pixel1.jpg/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Pixel2.png/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Pixel3.png/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Pixel4.png/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Politics1.png/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Politics2.png/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Politics3.png/>
+<img src="https://raw.githubusercontent.com/Ovens-Syntax/Ovens-Wallpaper-Repository/main/Skull1.png/>
